@@ -1,0 +1,29 @@
+#firstBar{
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+#banner {
+    margin-left: 2cm;
+    margin-right: 2cm; 
+    text-align: center;
+    background-color: rgba(20, 19, 19, 0.801);
+    color: rgb(255, 253, 221);
+}
+
+#move{
+    float: left;
+    margin-left: 1cm;
+}
+body {
+    background-image: url(paper626781.jpg);
+    color: black;
+    background-size: auto;
+}
+.card {
+    background-color: rgba(245, 245, 245, 0);
+}
+h3{
+    color: rgb(77, 6, 6);
+}
+
