@@ -24,6 +24,9 @@ body {
     background-color: rgba(245, 245, 245, 0);
 }
 h3{
-    color: rgb(77, 6, 6);
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
 }
 
